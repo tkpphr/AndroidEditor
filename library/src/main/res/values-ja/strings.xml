@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edtr_yes">はい</string>
+    <string name="edtr_no">いいえ</string>
+    <string name="edtr_cancel">キャンセル</string>
+    <string name="edtr_ok">OK</string>
+    <string name="edtr_save">保存する</string>
+    <string name="edtr_dont_save">保存しない</string>
+    <string name="edtr_hint_save">この名前は既に存在します。\nファイルは上書きされます。</string>
+    <string name="edtr_hint_save_as">ファイルは新規作成されます。</string>
+    <string name="edtr_save_to">ファイルを保存します。</string>
+    <string name="edtr_saving_progress">保存中…</string>
+    <string name="edtr_loading_progress">読込中…</string>
+    <string name="edtr_confirm_save_and_exit">データが変更されています。\n変更内容を保存しますか？</string>
+    <string name="edtr_confirm_exit">終了してもよろしいですか？</string>
+    <string name="edtr_error_empty_save_name">名前が空です。</string>
+    <string name="edtr_hint_enter_save_name">ファイル名を入力してください。\n(最大30文字まで)</string>
+</resources>

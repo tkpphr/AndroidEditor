@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edtr_yes">Yes</string>
+    <string name="edtr_no">No</string>
+    <string name="edtr_cancel">Cancel</string>
+    <string name="edtr_ok">OK</string>
+    <string name="edtr_save">Save</string>
+    <string name="edtr_dont_save">Don\'t Save</string>
+    <string name="edtr_hint_save">This name already exists.\nFile will be overwritten.</string>
+    <string name="edtr_hint_save_as">File will be created newly.</string>
+    <string name="edtr_error_empty_save_name">Name is empty.</string>
+    <string name="edtr_saving_progress">Saving File…</string>
+    <string name="edtr_loading_progress">Loading File…</string>
+    <string name="edtr_save_to">Save to</string>
+    <string name="edtr_confirm_save_and_exit">Data has been Changed.\nDo you want to save the changes?</string>
+    <string name="edtr_confirm_exit">Are you sure you want to  exit?</string>
+    <string name="edtr_hint_enter_save_name">Enter file name.\n(Max 30 characters)</string>
+</resources>

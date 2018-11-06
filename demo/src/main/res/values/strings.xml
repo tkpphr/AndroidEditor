@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidEditor</string>
+    <string name="hint_text_editor">Input Text</string>
+    <string name="editor_cache_name" translatable="false">editor-cache</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
+    <string name="message_failed_saving_file">Failed saving file</string>
+    <string name="message_succeed_saving_file">Succeed saving file</string>
+</resources>

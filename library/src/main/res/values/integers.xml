@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="edtr_save_progress_loader_id">145</integer>
+    <integer name="edtr_load_progress_loader_id">146</integer>
+</resources>
